@@ -7,7 +7,7 @@ int score = 0;
 
 void setup()
 {
-  background(0,0);
+  background(0);
   size(300,300);
 }
 void draw()
